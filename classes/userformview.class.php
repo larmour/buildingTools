@@ -5,7 +5,7 @@
      public function getHTML() {
 
        $form = '
-           <h1>User Login Form</h1>
+           <h2>User Registration Form</h2>
            <form action="index.php?controller=userController" method="post">
              <div>
 	         <label for="username">Username:</label>
